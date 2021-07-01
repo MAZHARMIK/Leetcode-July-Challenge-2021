@@ -11,7 +11,12 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
 			<th>Click to open the Problem</th>
 		</thead>
 		<tbody>
-      <tr>
+      			<tr>
+			  <td>Find Leaves of Binary Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Find%20Leaves%20Of%20Binary%20Tree.cpp"><img src="https://3.bp.blogspot.com/-zN5wGg-yr_A/V-fQbObgNzI/AAAAAAAAHDo/cPDkJcR34XA5ywQv41zN70qUa6mR_V_ygCLcB/s1600/How%2Bto%2Bprint%2Ball%2Bleaf%2Bnodes%2Bof%2Ba%2Bbinary%2Btree%2Bin%2BJava.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Gray Code</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Gray%20Code.cpp"><img src="https://electronicsdesk.com/wp-content/uploads/2019/05/example.jpg" width="400" height="240"></a>
 			  </td>
