@@ -21,5 +21,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Gray%20Code.cpp"><img src="https://electronicsdesk.com/wp-content/uploads/2019/05/example.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Find K Closest Elements</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20K%20Closest%20Elements.cpp"><img src="https://miro.medium.com/max/1200/1*gsXm317Hrd71EjYNghNJuA.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
