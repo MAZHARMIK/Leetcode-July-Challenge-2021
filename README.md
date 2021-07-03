@@ -26,5 +26,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20K%20Closest%20Elements.cpp"><img src="https://miro.medium.com/max/1200/1*gsXm317Hrd71EjYNghNJuA.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Max Sum of Rectangle No Larger Than K</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.cpp"><img src="https://www.geeksforgeeks.org/wp-content/uploads/kadane-Algorithm.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
