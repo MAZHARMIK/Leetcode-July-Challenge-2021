@@ -31,5 +31,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.cpp"><img src="https://www.geeksforgeeks.org/wp-content/uploads/kadane-Algorithm.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Count Vowels Permutation</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Count%20Vowels%20Permutation.cpp"><img src="https://i.ytimg.com/vi/LEWfBuoSK_k/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
