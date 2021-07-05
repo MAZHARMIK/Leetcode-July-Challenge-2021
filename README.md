@@ -36,5 +36,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Count%20Vowels%20Permutation.cpp"><img src="https://i.ytimg.com/vi/LEWfBuoSK_k/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Reshape The Matrix</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Reshape%20The%20Matrix.cpp"><img src="https://yt3.ggpht.com/a-/AAuE7mDJmHRDL4dE287mAkKkx6usagWNcF8rg5yQbg=s900-mo-c-c0xffffffff-rj-k-no" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
