@@ -41,5 +41,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Reshape%20The%20Matrix.cpp"><img src="https://yt3.ggpht.com/a-/AAuE7mDJmHRDL4dE287mAkKkx6usagWNcF8rg5yQbg=s900-mo-c-c0xffffffff-rj-k-no" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Reduce Array Size to The Half</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Reduce%20Array%20Size%20to%20The%20Half.cpp"><img src="https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/half_jwstda.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
