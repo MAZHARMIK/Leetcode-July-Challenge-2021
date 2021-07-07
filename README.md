@@ -46,5 +46,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Reduce%20Array%20Size%20to%20The%20Half.cpp"><img src="https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/half_jwstda.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Kth Smallest Element in a Sorted Matrix</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.cpp"><img src="https://miro.medium.com/max/1200/1*gsXm317Hrd71EjYNghNJuA.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
