@@ -51,5 +51,15 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.cpp"><img src="https://miro.medium.com/max/1200/1*gsXm317Hrd71EjYNghNJuA.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Reverse Words in a String II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Reverse%20Words%20in%20a%20String%20II.cpp"><img src="https://clipground.com/images/reverse-clipart-10.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Maximum Length of Repeated Subarray</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Maximum_Length_of_Repeated_Subarray.cpp"><img src="https://image.slideserve.com/541246/dynamic-programming-l.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
