@@ -61,5 +61,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Maximum_Length_of_Repeated_Subarray.cpp"><img src="https://image.slideserve.com/541246/dynamic-programming-l.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Longest Increasing Subsequence</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20Increasing%20Subsequence.cpp"><img src="https://i.ytimg.com/vi/KjSLhmkSzDw/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
