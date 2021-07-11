@@ -66,5 +66,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20Increasing%20Subsequence.cpp"><img src="https://i.ytimg.com/vi/KjSLhmkSzDw/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Decode Ways II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Decode%20Ways%20II.cpp"><img src="https://www.closinglogos.com/images/c/c6/AxoBs-YvL_AucAV9h1wALg61429.jpeg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
