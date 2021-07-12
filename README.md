@@ -77,7 +77,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
 			  </td>
 			</tr>
 			<tr>
-			  <td>Decode Ways II</td>
+			  <td>Isomorphic Strings</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Isomorphic%20Strings.cpp"><img src="https://1.bp.blogspot.com/-oAbuVgHFcok/TfBhkTDLMyI/AAAAAAAAGYE/o68uszN8Llg/s400/HashMap.png" width="400" height="240"></a>
 			  </td>
 			</tr>
