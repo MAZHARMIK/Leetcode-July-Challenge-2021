@@ -76,5 +76,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Find%20Median%20from%20Data%20Stream.cpp"><img src="https://askopinion.com/images/Files/UserFiles/posting/lrg/2017/8/median-zdx.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Decode Ways II</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Isomorphic%20Strings.cpp"><img src="https://1.bp.blogspot.com/-oAbuVgHFcok/TfBhkTDLMyI/AAAAAAAAGYE/o68uszN8Llg/s400/HashMap.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
