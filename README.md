@@ -81,5 +81,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Isomorphic%20Strings.cpp"><img src="https://1.bp.blogspot.com/-oAbuVgHFcok/TfBhkTDLMyI/AAAAAAAAGYE/o68uszN8Llg/s400/HashMap.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Find Peak Element</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Find%20Peak%20Element.cpp"><img src="https://vignette1.wikia.nocookie.net/scribblenauts/images/3/39/Mountain.png/revision/latest?cb=20130301214805" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
