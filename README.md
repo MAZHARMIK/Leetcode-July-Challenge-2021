@@ -86,5 +86,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Find%20Peak%20Element.cpp"><img src="https://vignette1.wikia.nocookie.net/scribblenauts/images/3/39/Mountain.png/revision/latest?cb=20130301214805" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Custom Sort String</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Custom%20Sort%20String.cpp"><img src="http://images.clipartpanda.com/sort-clipart-sorting-by-color-clipart-1.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
