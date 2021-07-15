@@ -88,7 +88,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
 			</tr>
 			<tr>
 			  <td>Custom Sort String</td>
-        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Custom%20Sort%20String.cpp"><img src="http://images.clipartpanda.com/sort-clipart-sorting-by-color-clipart-1.jpg" width="400" height="240"></a>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/HashMap/Custom%20Sort%20String.cpp"><img src="https://webstockreview.net/images/nursery-clipart-group-object-2.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
 			<tr>
