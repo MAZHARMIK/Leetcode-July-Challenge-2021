@@ -92,6 +92,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
 			  </td>
 			</tr>
 			<tr>
+			  <td>Range Addition</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Cumulative_Sum(Prefix%20Array)/Range%20Addition.cpp"><img src="https://camo.githubusercontent.com/2d615412affe5ebb32202ee2359d921f26ad459e169abb79096ae6e708fdc8cd/68747470733a2f2f692e7974696d672e636f6d2f76692f38436a474843444e70596f2f6d617872657364656661756c742e6a7067" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Valid Triangle Number</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Valid%20Triangle%20Number.cpp"><img src="https://mathmonks.com/wp-content/uploads/2020/03/Basic-Properties-of-a-Triangle.jpg" width="400" height="240"></a>
 			  </td>
