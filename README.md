@@ -101,5 +101,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Valid%20Triangle%20Number.cpp"><img src="https://mathmonks.com/wp-content/uploads/2020/03/Basic-Properties-of-a-Triangle.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Three Equal Parts</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Three%20Equal%20Parts.cpp"><img src="https://www.math-only-math.com/images/xthree-equal-parts-of-a-sheet.png.pagespeed.ic.Koden6It8q.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
