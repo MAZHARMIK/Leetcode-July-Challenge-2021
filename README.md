@@ -111,5 +111,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Reverse%20Nodes%20in%20k-Group.cpp"><img src="https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Lowest Common Ancestor of a Binary Search Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp"><img src="https://files.liveworksheets.com/def_files/2020/5/10/510200116000051083/510200116000051083001.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
