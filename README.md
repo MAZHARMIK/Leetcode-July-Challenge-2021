@@ -116,5 +116,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp"><img src="https://files.liveworksheets.com/def_files/2020/5/10/510200116000051083/510200116000051083001.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Shuffle an Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Shuffle%20an%20Array.cpp"><img src="https://mediad.publicbroadcasting.net/p/wksu/files/styles/x_large/public/201703/Logo_shuffleOrange.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
