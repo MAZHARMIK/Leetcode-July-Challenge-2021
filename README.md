@@ -126,5 +126,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Push%20Dominoes.cpp"><img src="https://i.ytimg.com/vi/tTiNwy8VHzg/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Partition Array into Disjoint Intervals</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Partition%20Array%20into%20Disjoint%20Intervals.cpp"><img src="https://i.ytimg.com/vi/hSjB0mT2hjA/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
