@@ -121,5 +121,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Shuffle%20an%20Array.cpp"><img src="https://mediad.publicbroadcasting.net/p/wksu/files/styles/x_large/public/201703/Logo_shuffleOrange.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Push Dominoes</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Push%20Dominoes.cpp"><img src="https://i.ytimg.com/vi/tTiNwy8VHzg/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
