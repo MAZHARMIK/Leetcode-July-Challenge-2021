@@ -131,5 +131,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Partition%20Array%20into%20Disjoint%20Intervals.cpp"><img src="https://i.ytimg.com/vi/hSjB0mT2hjA/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Binary Tree Pruning</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Binary%20Tree%20Pruning.cpp"><img src="https://qphs.fs.quoracdn.net/main-qimg-d76b2da65e44dddcbf5321d767e0889a" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
