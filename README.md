@@ -141,5 +141,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Word%20Ladder%20II.cpp"><img src="https://webstockreview.net/images/ladder-clipart-wood-ladder-11.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Word Ladder II</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Non-negative%20Integers%20without%20Consecutive%20Ones.cpp"><img src="https://clipartsworld.com/images/binary-code-clipart-13.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
