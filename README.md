@@ -136,5 +136,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Binary%20Tree%20Pruning.cpp"><img src="https://qphs.fs.quoracdn.net/main-qimg-d76b2da65e44dddcbf5321d767e0889a" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Word Ladder II</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Word%20Ladder%20II.cpp"><img src="https://webstockreview.net/images/ladder-clipart-wood-ladder-11.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
