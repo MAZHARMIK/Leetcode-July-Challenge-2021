@@ -142,7 +142,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
 			  </td>
 			</tr>
 			<tr>
-			  <td>Word Ladder II</td>
+			  <td>Non-negative Integers without Consecutive Ones</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Non-negative%20Integers%20without%20Consecutive%20Ones.cpp"><img src="https://clipartsworld.com/images/binary-code-clipart-13.png" width="400" height="240"></a>
 			  </td>
 			</tr>
