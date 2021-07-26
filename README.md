@@ -146,5 +146,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Non-negative%20Integers%20without%20Consecutive%20Ones.cpp"><img src="https://clipartsworld.com/images/binary-code-clipart-13.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Convert Sorted Array to Binary Search Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp"><img src="https://www.gatevidyalay.com/wp-content/uploads/2018/07/Binary-Search-Tree-Example.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
