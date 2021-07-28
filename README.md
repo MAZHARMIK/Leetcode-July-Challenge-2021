@@ -151,5 +151,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
         <td><a href="https://github.com/MAZHARMIK/Leetcode-July-Challenge-2021/blob/main/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp"><img src="https://www.gatevidyalay.com/wp-content/uploads/2018/07/Binary-Search-Tree-Example.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Beautiful Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Beautiful%20Array.cpp"><img src="https://clipground.com/images/beautiful-words-clipart-5.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
