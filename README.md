@@ -162,7 +162,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
 			  </td>
 			</tr>
 			<tr>
-			  <td>01 Matrix</td>
+			  <td>Map Sum Pairs</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Map%20Sum%20Pairs.cpp"><img src="https://bioinformatics.cvr.ac.uk/wp-content/uploads/2014/11/trie.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
