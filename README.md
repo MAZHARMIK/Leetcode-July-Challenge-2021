@@ -157,6 +157,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/july-
 			  </td>
 			</tr>
 			<tr>
+			  <td>Binary Tree Longest Consecutive Sequence II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Binary%20Tree%20Longest%20Consecutive%20Sequence%20II.cpp"><img src="https://clipground.com/images/melon-tree-clipart-19.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>01 Matrix</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/01%20Matrix.cpp"><img src="https://i.ytimg.com/vi/QRq6p9s8NVg/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
